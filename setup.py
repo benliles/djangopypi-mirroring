@@ -39,6 +39,6 @@ setup(
     install_requires=[
         'setuptools',
         'docutils',
-        'djangopypi>=0.4.4'
+        'djangopypi'
     ],
 )
